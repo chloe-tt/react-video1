@@ -1,0 +1,22 @@
+Notions comprises avant les videos:
+
+- Qu'est-ce qu'une API ? Qu'est-ce qu'un server ?
+- React Library ou Framwork
+- Lancer son premier projet React
+- Modification du fichier App js suite au changement du starter create react app
+- Créer son premier composent react
+- Qu'est que le jsx
+- Le spread operator
+- Tout sur les props 1/2
+- Tous sur les props 2/2
+
+
+
+Notions comprises grace aux vidéos:
+
+- Analyse du contenu de notre dossier react
+- Tout sur la State: appeler la même fonction sur deux champs différents sans que les changement de state d'un champs affecte le state du deuxième champs
+
+
+Notions non comprises:
+- RAS
